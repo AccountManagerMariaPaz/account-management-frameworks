@@ -1,6 +1,9 @@
 # 🔍 Discovery Meeting Framework
 
-## Purpose
+> A practical framework for conducting high-impact discovery meetings that uncover customer needs, build trust, and identify long-term business opportunities.
+
+---
+## 🎯 Purpose
 
 The discovery meeting is the foundation of every successful customer relationship.
 
